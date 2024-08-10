@@ -3,7 +3,7 @@
 
 
 <!-- Introduction -->
-<h2 align="center">Hi there! I'm Dominick Ford 👋</h2>
+<h2 align="center">Hi there! I'm Dom 👋</h2>
 <p align="center">
   I am a passionate developer who loves to code in Python, HTML, JavaScript, CSS, and more.
 </p>
@@ -59,7 +59,7 @@ What sets this tool apart is its complete customizability—tailor every aspect 
 
 
 <!-- Footer -->
-<p align="center">© 2024 Dominick Ford</p>
+<p align="center">© 2024 Dom</p>
 
 
 
