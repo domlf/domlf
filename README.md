@@ -37,10 +37,7 @@
   <!-- Add more social links as needed -->
 </p>
 
-<!-- Final Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/67447840/201658100-722c0075-4f42-49a8-910b-f3c55d7d79dc.png" alt="divider" />
-</p>
+
 
 <!-- Footer -->
 <p align="center">© 2024 Dominick Ford</p>
