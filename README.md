@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=domlf&color=blueviolet)
 
