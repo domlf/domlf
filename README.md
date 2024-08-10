@@ -1,4 +1,6 @@
 
+![Profile Views](https://komarev.com/ghpvc/?username=domlf&color=blueviolet)
+
 
 <!-- Introduction -->
 <h2 align="center">Hi there! I'm Dominick Ford 👋</h2>
@@ -53,7 +55,6 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=domlf&color=blueviolet)
 
 
 #
