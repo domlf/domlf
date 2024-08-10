@@ -22,9 +22,9 @@
 <!-- Projects Section -->
 <h3 align="center">🔧 Projects</h3>
 <ul align="center">
-  <li><a href="https://github.com/your-username/project-1">Project 1</a> - A brief description of the project.</li>
-  <li><a href="https://github.com/your-username/project-2">Project 2</a> - A brief description of the project.</li>
-  <li><a href="https://github.com/your-username/project-3">Project 3</a> - A brief description of the project.</li>
+  <a href="https://github.com/your-username/project-1">Project 1</a> - A brief description of the project.
+  <a href="https://github.com/your-username/project-2">Project 2</a> - A brief description of the project.
+  <a href="https://github.com/your-username/project-3">Project 3</a> - A brief description of the project.
 </ul>
 
 <!-- Divider -->
