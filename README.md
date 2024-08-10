@@ -73,9 +73,10 @@ What sets this tool apart is its complete customizability—tailor every aspect 
 
 
 
-#
+<div align="center" dir="auto" />
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domlf&layout=compact" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domlf&layout=compact)
 
 #
 ![GitHub Streak](https://streak-stats.demolab.com/?user=domlf&theme=radical)
