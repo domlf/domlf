@@ -1,12 +1,4 @@
-<!-- Centered GIF or Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/domlf/domlf/main/Animation%20-%201723314094284.gif" alt="Dominick Ford's Animation" />
-</p>
 
-<!-- Fancy Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/67447840/201658100-722c0075-4f42-49a8-910b-f3c55d7d79dc.png" alt="divider" />
-</p>
 
 <!-- Introduction -->
 <h2 align="center">Hi there! I'm Dominick Ford 👋</h2>
