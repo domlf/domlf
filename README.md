@@ -18,10 +18,6 @@
   <!-- Add more badges as needed -->
 </p>
 
-<!-- Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/67447840/201658100-722c0075-4f42-49a8-910b-f3c55d7d79dc.png" alt="divider" />
-</p>
 
 <!-- Projects Section -->
 <h3 align="center">🔧 Projects</h3>
