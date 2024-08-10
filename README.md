@@ -3,6 +3,9 @@
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=domlf&theme=dracula)
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=domlf&color=blueviolet)
 
