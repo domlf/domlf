@@ -75,10 +75,10 @@ What sets this tool apart is its complete customizability—tailor every aspect 
 
 <div align="center" dir="auto" />
  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domlf&layout=compact" />
+  <img style="max-width: 100%;" src="https://streak-stats.demolab.com/?user=domlf&theme=radical" />
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=domlf&show_icons=true&bg_color=00000000" />
 </div>
 
 
-#
-![GitHub Streak](https://streak-stats.demolab.com/?user=domlf&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=domlf&show_icons=true&bg_color=00000000)
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=domlf&theme=dracula)
