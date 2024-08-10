@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+https://lottie.host/embed/ac261ddc-2fcb-44dc-855c-39d15d4dc449/WDJoiRHTef.json
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
