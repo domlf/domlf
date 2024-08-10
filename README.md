@@ -50,7 +50,7 @@ What sets this tool apart is its complete customizability—tailor every aspect 
   <a href="#"><img src="https://img.shields.io/badge/rawrx3.-grey?style=for-the-badge&logo=Discord"></a>
   <!-- Add more social links as needed -->
 </p>
-### ✍️Random Dev Quote
+## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
