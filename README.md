@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=domlf&theme=react-dark)
+![Profile Views](https://komarev.com/ghpvc/?username=domlf&color=blueviolet)
+
 
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domlf&layout=compact)
