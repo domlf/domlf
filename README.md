@@ -6,10 +6,7 @@
   I am a passionate developer who loves to code in Python, HTML, JavaScript, CSS, and more.
 </p>
 
-<!-- Another Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/67447840/201658100-722c0075-4f42-49a8-910b-f3c55d7d79dc.png" alt="divider" />
-</p>
+
 
 <!-- Programming Languages -->
 <h3 align="center">💻 Languages & Tools</h3>
