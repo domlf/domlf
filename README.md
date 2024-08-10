@@ -27,10 +27,7 @@
   <a href="https://github.com/your-username/project-3">Project 3</a> - A brief description of the project.
 </ul>
 
-<!-- Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/67447840/201658100-722c0075-4f42-49a8-910b-f3c55d7d79dc.png" alt="divider" />
-</p>
+
 
 <!-- Contact -->
 <h3 align="center">📫 Let's Connect!</h3>
