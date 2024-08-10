@@ -1,4 +1,8 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/domlf/domlf/main/Animation%20-%201723314094284.gif" alt="Animated GIF">
+</p>
+
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
