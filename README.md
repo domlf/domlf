@@ -56,8 +56,7 @@ What sets this tool apart is its complete customizability—tailor every aspect 
 
 
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+
 
 
 
