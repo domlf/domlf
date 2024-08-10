@@ -51,7 +51,7 @@ What sets this tool apart is its complete customizability—tailor every aspect 
   <!-- Add more social links as needed -->
 </p>
 ## ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <!-- Footer -->
