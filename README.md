@@ -55,7 +55,7 @@ What sets this tool apart is its complete customizability—tailor every aspect 
  <img style="max-width: 100%;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 <!-- Footer -->
