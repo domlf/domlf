@@ -28,7 +28,12 @@
   <a href="https://github.com/domlf/discord-embed-sender">Discord Embed Sender</a> - Python script that simplifies the process of sending custom embeds to Discord using webhooks. This tool features a user-friendly GUI built with PyQt5, making it easy to customize and send rich embed messages without needing to manually format JSON.
   <br />
   <br />
-  <a href="https://github.com/your-username/project-2">Project 2</a> - A brief description of the project.
+  <a href="#">Discord Music Bot (Private)</a> - Discord music bot utilizing Python, Java LavaLink server, Discord API, FFmpeg, and other advanced technologies. This bot enhances the user experience on Discord by enabling seamless music streaming within voice channels, allowing users to enjoy songs together or individually.
+  <br />
+  <br />
+  <a href="#">Discord Twitch Notifyer (Coming Soon)</a> -  tool is designed for Twitch streamers who want a fast, simple, and effective way to manually update their Discord community about their live streams. Whether you're a seasoned streamer or just starting out, this tool ensures that your Discord members never miss a moment of your broadcast.
+
+What sets this tool apart is its complete customizability—tailor every aspect to fit your unique brand and communication style. With an easy-to-use interface and seamless integration with Twitch's API and Discord's webhooks, it takes the hassle out of manual stream notifications, letting you focus on what you do best: streaming.
 </ul>
 
 
