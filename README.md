@@ -1,8 +1,8 @@
 ## Hi there 👋
-<p align="center">
-  <img src="https://raw.githubusercontent.com/domlf/domlf/main/Animation%20-%201723314094284.gif" alt="Animated GIF">
-</p>
 
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+
+    <dotlottie-player src="https://lottie.host/ac261ddc-2fcb-44dc-855c-39d15d4dc449/WDJoiRHTef.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
