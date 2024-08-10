@@ -3,11 +3,12 @@
 
 
 <!-- Introduction -->
-<h2 align="center">Hi there! I'm Dominick Ford 👋![Profile Views](https://komarev.com/ghpvc/?username=domlf&color=blueviolet) </h2>
+<h2 align="center">Hi there! I'm Dominick Ford 👋</h2>
 <p align="center">
   I am a passionate developer who loves to code in Python, HTML, JavaScript, CSS, and more.
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=domlf&color=blueviolet) 
 
 
 <!-- Programming Languages -->
