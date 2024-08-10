@@ -23,7 +23,7 @@
 
 
 <!-- Projects Section -->
-<h3 align="center">🔧 Projects</h3>
+<h2 align="center">🔧 Projects</h3>
 <ul align="center">
   <a href="https://github.com/domlf/discord-embed-sender">Discord Embed Sender</a> - Python script that simplifies the process of sending custom embeds to Discord using webhooks. This tool features a user-friendly GUI built with PyQt5, making it easy to customize and send rich embed messages without needing to manually format JSON.
   <br />
