@@ -55,7 +55,8 @@ What sets this tool apart is its complete customizability—tailor every aspect 
 
 <!-- Footer -->
 <p align="center">© 2024 Dominick Ford</p>
-
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
